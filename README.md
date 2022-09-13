@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+    Basics Of React 
+
+
+ A component is a single entity used to create ui in react js for web development
+ Components in react.js - 
+ 1. functional component
+ 2. class component
+
+
+ Suppose if u want to use css in reactjs.
+
+ Create a seperate css file for each component 
+ EG. App.js[App.css]
+    Index.js[Index.css]
+    About.js[About.css]
+    Footer.js[Footer.css]
+
+

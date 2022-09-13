@@ -1,6 +1,8 @@
 // import logo from './logo.svg';
 import Header from "./component/Header"
 import './App.css';
+import Button from "./component/Button"
+
 
 // function App() {
 //   return (
@@ -27,7 +29,8 @@ function App() {
   return (
     <div className="container">
       <Header title = 'React Tutorial'/>
-      <Header title1='React Tutoria1111111l'/>
+  
+      {/* <Header title1='React Tutoria1111111l'/> */}
     </div>
   );
 }
